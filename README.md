@@ -17,7 +17,7 @@ the Rust programming language and probably reading something in the pop-psy real
 # 📫 How to reach me ...
 * Write me on [Mastodon](https://sunny.garden/@pico_bolero)
 * Comment on a [blog article](https://pico-bolero.medium.com/)!
-* Or say this out loud and then type it into your favorite electronic mail write 'pico dot bolero at gmail dot com'
+* Or say this out loud and then type it into your favorite electronic mail composer 'pico dot bolero at gmail dot com'
 
 
 <!---
