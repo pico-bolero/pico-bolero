@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @pico-bolero
 I'm a practicing software engineeer since 2000. Currently, I am a team lead and 
-I've filled the role or architect and project manager for some smaller projects.
+I've filled the role of architect and project manager for some smaller projects.
 
 ## 👀 I’m interested in ...
-many things. I like to [blog](https://pico-bolero.medium.com/) and write about the stuff I am doing and share it with friends. 
+too many things. I like to [blog](https://pico-bolero.medium.com/) and write about the stuff I am doing and share it with friends. 
 I really like software, if I wasn't doing it for a living, I probably would still be writing software.
 
 ## 🌱 I’m currently learning ...
